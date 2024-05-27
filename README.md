@@ -1,6 +1,4 @@
-# google-indexing-api-bulk
-
-Created by Steve at [Journey Further SEO](https://www.journeyfurther.com/)
+# google-indexing-api
 
 Requires node.js - https://nodejs.org/en/download/
 
